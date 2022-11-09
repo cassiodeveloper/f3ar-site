@@ -1,9 +1,9 @@
 ---
-title: 'We Help Business Grow'
+title: 'We help you build secure software'
 weight: 1
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
 button: 'Our Work'
 buttonLink: 'work'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+It's not new that more than 70% of a modern software is composed by third party components and libraries. That means, you must take care more of "other" code than yourself. F3AR will help you keep your software a bit more safe, since it will show you the operational risk of the libraries you are using.
