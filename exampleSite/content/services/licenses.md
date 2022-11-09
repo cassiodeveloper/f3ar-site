@@ -1,11 +1,11 @@
 ---
-title: 'Business Sales'
+title: 'Licenses'
 date: 2018-11-28T15:15:26+10:00
 icon: 'services/service-icon-3.png'
 featured: true
 draft: false
-heroHeading: 'Business Sales'
-heroSubHeading: 'We can help value your business and prepare it for sale.'
+heroHeading: 'Licenses'
+heroSubHeading: 'The corrrect use of a software license is critical, check if you are not violating anything'
 heroBackground: 'services/service1.jpg'
 ---
 
