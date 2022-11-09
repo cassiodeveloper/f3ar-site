@@ -2,7 +2,7 @@
 title: 'We help you build secure software'
 weight: 1
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
-button: 'Our Work'
+button: 'How we do it'
 buttonLink: 'work'
 ---
 
