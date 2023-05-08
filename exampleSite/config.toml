@@ -33,7 +33,7 @@ theme = "hugo-hero-theme"
     meta_twitter_creator = "@cassiodeveloper"
 
 [[menu.main]]
-	name = "Services"
+	name = "Features"
 	url = "/services/"
     weight = 1
 
